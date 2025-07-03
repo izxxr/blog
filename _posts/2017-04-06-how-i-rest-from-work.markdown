@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \"Initialize\" Blog
+title: Starting Post
 date: 2025-07-03 13:36:00 +0500
 description: Starting post for the new blog # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
