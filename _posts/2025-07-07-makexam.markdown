@@ -10,7 +10,7 @@ tags: [Project]
 
 As teaching assistant, I often had to create quizzes and assignments that followed an exact same format and it
 eventually became a bit repetitive. So as a programmer, I had to spend 3-4 hours streamlining a task that takes
-5 minutes.
+5 minutes normally.
 
 So, presenting **MakeXam**, a simple exam generation tool powered by [Typst](https://typst.app) 🚀
 
