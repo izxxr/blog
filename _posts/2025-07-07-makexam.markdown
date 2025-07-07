@@ -31,14 +31,14 @@ MakeXam provides a simple way of generating exams and right now, it includes the
 
 **Standard Exam Elements**
 
-![](../assets/img/makeXamElems.png)
+<img src="../assets/img/makeXamElems.png" width=500 height=300 />
 
 MakeXam provides all the ability to include all standard assessment elements. From guidelines, custom
 input fields such as name and roll number, to grading table.
 
 **Question Types and Format**
 
-![](makeXamQuestions.png)
+<img src="../assets/img/makeXamQuestions.png" width=500 height=300 />
 
 Currently, multiple choice question (MCQ) is available as an additional question type in MakeXam. More
 question types will be added in future.
@@ -55,7 +55,7 @@ The layout is responsive to all kinds of formats and can effectively handle most
 
 **Markup Elements**
 
-![](makeXamMarkup.png)
+<img src="../assets/img/makeXamMarkup.png" width=500 height=300 />
 
 MakeXam evaluates question content as Typst markup code. This means all Typst markup elements, such as *equations,
 code blocks, tables, figures, etc. are fully supported.*
