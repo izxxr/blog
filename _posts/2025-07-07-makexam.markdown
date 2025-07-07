@@ -3,7 +3,7 @@ layout: post
 title: MakeXam, a simple exam generator
 date: 2025-07-07 18:30:00 +0500
 description: Want to quickly create an exam, quiz, or assignment, try MakeXam! # Add post description (optional)
-img: makeXamHome.jpg # Add image post (optional)
+img: makeXamHome.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Project]
 ---
@@ -31,7 +31,7 @@ MakeXam provides a simple way of generating exams and right now, it includes the
 
 **Standard Exam Elements**
 
-![](makeXamElems.png)
+![](../assets/img/makeXamElems.png)
 
 MakeXam provides all the ability to include all standard assessment elements. From guidelines, custom
 input fields such as name and roll number, to grading table.
